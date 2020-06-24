@@ -1,0 +1,17 @@
+C:\Users\50586\source\repos\Canteen Management System Test\obj\Debug\Canteen Management System Test.csprojAssemblyReference.cache
+C:\Users\50586\source\repos\Canteen Management System Test\obj\Debug\Canteen Management System Test.csproj.CoreCompileInputs.cache
+C:\Users\50586\source\repos\Canteen Management System Test\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\50586\source\repos\Canteen Management System Test\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\50586\source\repos\Canteen Management System Test\bin\Debug\nunit.engine.dll
+C:\Users\50586\source\repos\Canteen Management System Test\bin\Debug\nunit.engine.api.dll
+C:\Users\50586\source\repos\Canteen Management System Test\bin\Debug\Canteen Management System Test.dll
+C:\Users\50586\source\repos\Canteen Management System Test\bin\Debug\Canteen Management System Test.pdb
+C:\Users\50586\source\repos\Canteen Management System Test\bin\Debug\Canteen Management System.exe
+C:\Users\50586\source\repos\Canteen Management System Test\bin\Debug\nunit.framework.dll
+C:\Users\50586\source\repos\Canteen Management System Test\bin\Debug\Canteen Management System.pdb
+C:\Users\50586\source\repos\Canteen Management System Test\bin\Debug\Canteen Management System.exe.config
+C:\Users\50586\source\repos\Canteen Management System Test\bin\Debug\nunit.framework.pdb
+C:\Users\50586\source\repos\Canteen Management System Test\bin\Debug\nunit.framework.xml
+C:\Users\50586\source\repos\Canteen Management System Test\obj\Debug\Canteen Management System Test.csproj.CopyComplete
+C:\Users\50586\source\repos\Canteen Management System Test\obj\Debug\Canteen Management System Test.dll
+C:\Users\50586\source\repos\Canteen Management System Test\obj\Debug\Canteen Management System Test.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canteen Management System", "Canteen Management System.csproj", "{89C6F9E9-2BAF-4604-9262-9BB0BA807593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canteen Management System Test", "..\Canteen Management System Test\Canteen Management System Test.csproj", "{F2DB8E32-248D-40F4-A7B7-7AEF8FF41C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89C6F9E9-2BAF-4604-9262-9BB0BA807593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C6F9E9-2BAF-4604-9262-9BB0BA807593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C6F9E9-2BAF-4604-9262-9BB0BA807593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C6F9E9-2BAF-4604-9262-9BB0BA807593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2DB8E32-248D-40F4-A7B7-7AEF8FF41C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DB8E32-248D-40F4-A7B7-7AEF8FF41C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DB8E32-248D-40F4-A7B7-7AEF8FF41C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DB8E32-248D-40F4-A7B7-7AEF8FF41C47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16A78FE8-FD7F-4E47-948E-81D0C1F2AC51}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿@model Canteen_Management_System_Mvc.ViewModel.VendorOrdersViewModel
+@{
+    ViewBag.Title = "OrderList";
+}
+
+<h2>OrderList</h2>
+<h2>Vendor</h2
+<h2>@Model.Vendor</h2>
+
+<h2>List of Orders</h2>
+@if(Model.Orders.Count == 0)
+{
+    <p>No Orders Placed</p>
+}
+
+<ul>
+    @foreach (var Orders in Model.Orders)
+    {
+        <li>@Orders.OrderId</li>
+        <li>@Orders.ItemId</li>
+        <li>@Orders.Quantity</li>
+        <li>@Orders.Total</li>
+        <li>@Orders.Status</li>
+    }
+</ul>
+
